@@ -5,11 +5,10 @@
 На тестирование затрачено: 9 часов
 
 В результате тестирования выявлены следующие дефекты:
-* [Деффект 1](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/1#issue-1048816542>)
-* [Деффект 2](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/2#issue-1048914863>)
-* [Деффект 3](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/3#issue-1048919902>)
-* [Деффект 4](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/4#issue-1048942042>)
-* [Деффект 5](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/5#issue-1048951613>)
+* [Не верифицирует карты из более 16 символов #1](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/1#issue-1048816542>)
+* [Нет верификации карт МИР #2](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/2#issue-1048914863>)
+* [Нет верификации карт China unionPay #3](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/3#issue-1048919902>)
+* [Нет верификации карт с количеством знаков меньше 16-ти #4](<https://github.com/ElenaMughi/Lesson2_CreditCardNumberValidator/issues/4#issue-1048942042>)
 
 ## Описание процесса тестирования
 
